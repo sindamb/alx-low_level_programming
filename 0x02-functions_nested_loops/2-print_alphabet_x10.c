@@ -3,7 +3,7 @@
  * main  - Aprogram that print lower case letters
  * Return: Always 0 (success)
  */
-int main(void)
+int print_alphabet_x10(void)
 {
 	char C;
 

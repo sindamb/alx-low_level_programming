@@ -1,0 +1,1 @@
+painters ,arrays and strings

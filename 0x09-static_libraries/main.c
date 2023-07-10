@@ -1,8 +1,12 @@
 #include <stdio.h>
 #include "main.h"
 
-char _puts(a)
-	return a;
+ void _puts(char *s)
+{
+	char a[];
+
+	return a[];
+}
 
 int main(void)
 {
